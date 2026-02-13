@@ -1,0 +1,8 @@
+[submodule "bis-schemas"]
+	path = bis-schemas
+	url = git@github.com:iTwin/bis-schemas.git
+	branch = master
+[submodule "imodel-native"]
+	path = imodel-native
+	url = git@github.com:iTwin/imodel-native.git
+	branch = main
