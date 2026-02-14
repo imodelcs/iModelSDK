@@ -42,5 +42,8 @@
 
 #my
 CLAUDE.md
-.claude
-.vscode
+/.claude
+/.vscode/
+/dev/
+/build/
+/sdk/
